@@ -1,1 +1,1 @@
-# DeltaCore
+These are dlls for Delta 
